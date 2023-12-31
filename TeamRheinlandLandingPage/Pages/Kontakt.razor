@@ -1,0 +1,88 @@
+@page "/kontakt"
+@layout MainLayout
+
+
+<PageTitle>Solarteam Rheinland</PageTitle>
+
+
+<section id="contact" class="contact">
+    <div class="container">
+
+        <div class="section-header">
+            <p>Interessiert? <span>Kontaktiere uns!</span></p>
+        </div>
+
+        <div class="row gy-4">
+
+            <div class="col-md-6">
+                <div class="info-item d-flex align-items-center">
+                    <i class="icon bi bi-envelope flex-shrink-0"></i>
+                    <div>
+                        <h3>Email Us</h3>
+                        <p>contact@example.com</p>
+                    </div>
+                </div>
+            </div><!-- End Info Item -->
+
+            <div class="col-md-6">
+                <div class="info-item  d-flex align-items-center">
+                    <i class="icon bi bi-telephone flex-shrink-0"></i>
+                    <div>
+                        <h3>Call Us</h3>
+                        <p>+1 5589 55488 55</p>
+                    </div>
+                </div>
+            </div><!-- End Info Item -->
+
+        </div>
+
+        <form action="forms/contact.php" method="post" role="form" class="php-email-form p-3 p-md-4">
+            <div class="row">
+                <div class="col-xl-6 form-group">
+                    <input type="text" name="name" class="form-control" id="name" placeholder="Name, Vorname" required>
+                </div>
+                <div class="col-xl-6 form-group">
+                    <input type="text" name="adresse" class="form-control" id="adresse" placeholder="Adresse: (Straße, Hausnr., PLZ, Ort)" required>
+                </div>
+                <div class="col-xl-6 form-group">
+                    <input type="text" name="telefonnummer" class="form-control" id="telefonnummer" placeholder="Telefonnummer" required>
+                </div>
+                <div class="col-xl-6 form-group">
+                    <input type="email" class="form-control" name="email" id="email" placeholder="E-Mail-Adresse" required>
+                </div>
+                <div class="col-xl-6 form-group">
+                    <input type="text" class="form-control" name="stromverbrauch" id="stromverbrauch" placeholder="Jährlicher Stromverbrauch" required>
+                </div>
+                <div class="col-xl-6 form-group">
+                    <select class="form-control" name="Dachform" id="Dachform" required style="font-size: 14px;">
+                        <option value="">Dachform auswählen</option>
+                        <option value="Satteldach">Satteldach</option>
+                        <option value="Flachdach">Flachdach</option>
+                        <option value="Pultdach">Pultdach</option>
+                        <!-- Add more options as needed -->
+                    </select>
+                </div>
+                <div class="col-xl-6 form-group">
+                    <input type="text" class="form-control" name="dachausrichtung" id="dachausrichtung" placeholder="Dachausrichtung" required>
+                </div>
+                <div class="col-xl-6 form-group">
+                    <input type="text" class="form-control" name="dachneigung" id="dachneigung" placeholder="Dachneigungswinkel (falls bekannt)" required>
+                </div>
+            </div>
+            <div class="form-group">
+                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+            </div>
+            <div class="form-group">
+                <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+            </div>
+            <div class="my-3">
+                <div class="loading">Loading</div>
+                <div class="error-message"></div>
+                <div class="sent-message">Your message has been sent. Thank you!</div>
+            </div>
+            <div class="text-center"><button type="submit">Send Message</button></div>
+        </form><!-- End Contact Form -->
+
+
+    </div>
+</section><!-- End Contact Section -->

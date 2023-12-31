@@ -1,0 +1,473 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TeamRheinlandLandingPage.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TeamRheinlandLandingPage.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\css\\ablauf.css",
+      "PackagePath": "staticwebassets\\css\\ablauf.css"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\img\\Logo_Solarteam.png",
+      "PackagePath": "staticwebassets\\img\\Logo_Solarteam.png"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\img\\about-2.jpg",
+      "PackagePath": "staticwebassets\\img\\about-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\img\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\img\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\img\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\img\\chefs\\chefs-1.jpg",
+      "PackagePath": "staticwebassets\\img\\chefs\\chefs-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\img\\chefs\\chefs-2.jpg",
+      "PackagePath": "staticwebassets\\img\\chefs\\chefs-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\img\\chefs\\chefs-3.jpg",
+      "PackagePath": "staticwebassets\\img\\chefs\\chefs-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\img\\ev-gif.webp",
+      "PackagePath": "staticwebassets\\img\\ev-gif.webp"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\img\\events-1.jpg",
+      "PackagePath": "staticwebassets\\img\\events-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\img\\events-2.jpg",
+      "PackagePath": "staticwebassets\\img\\events-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\img\\events-3.jpg",
+      "PackagePath": "staticwebassets\\img\\events-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\img\\gallery\\gallery-1.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\img\\gallery\\gallery-2.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\img\\gallery\\gallery-3.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\img\\gallery\\gallery-4.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\img\\gallery\\gallery-5.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\img\\gallery\\gallery-6.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\img\\gallery\\gallery-7.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\img\\gallery\\gallery-8.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\img\\hero-img.png",
+      "PackagePath": "staticwebassets\\img\\hero-img.png"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\img\\index.jpg",
+      "PackagePath": "staticwebassets\\img\\index.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\img\\index_1.jpg",
+      "PackagePath": "staticwebassets\\img\\index_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\img\\main.jpg",
+      "PackagePath": "staticwebassets\\img\\main.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\img\\main.png",
+      "PackagePath": "staticwebassets\\img\\main.png"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\img\\main2.jpg",
+      "PackagePath": "staticwebassets\\img\\main2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\img\\menu\\menu-item-1.png",
+      "PackagePath": "staticwebassets\\img\\menu\\menu-item-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\img\\menu\\menu-item-2.png",
+      "PackagePath": "staticwebassets\\img\\menu\\menu-item-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\img\\menu\\menu-item-3.png",
+      "PackagePath": "staticwebassets\\img\\menu\\menu-item-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\img\\menu\\menu-item-4.png",
+      "PackagePath": "staticwebassets\\img\\menu\\menu-item-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\img\\menu\\menu-item-5.png",
+      "PackagePath": "staticwebassets\\img\\menu\\menu-item-5.png"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\img\\menu\\menu-item-6.png",
+      "PackagePath": "staticwebassets\\img\\menu\\menu-item-6.png"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\img\\reservation.jpg",
+      "PackagePath": "staticwebassets\\img\\reservation.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\img\\stats-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\stats-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\img\\team-shape.svg",
+      "PackagePath": "staticwebassets\\img\\team-shape.svg"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\img\\testimonials\\testimonials-1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\img\\testimonials\\testimonials-2.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\img\\testimonials\\testimonials-3.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\img\\testimonials\\testimonials-4.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\js\\loadComponent.js",
+      "PackagePath": "staticwebassets\\js\\loadComponent.js"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\aos\\aos.cjs.js",
+      "PackagePath": "staticwebassets\\vendor\\aos\\aos.cjs.js"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\aos\\aos.css",
+      "PackagePath": "staticwebassets\\vendor\\aos\\aos.css"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\aos\\aos.esm.js",
+      "PackagePath": "staticwebassets\\vendor\\aos\\aos.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\aos\\aos.js",
+      "PackagePath": "staticwebassets\\vendor\\aos\\aos.js"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\aos\\aos.js.map",
+      "PackagePath": "staticwebassets\\vendor\\aos\\aos.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\glightbox\\css\\glightbox.css",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\css\\glightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\glightbox\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\glightbox\\css\\plyr.css",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\css\\plyr.css"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\glightbox\\css\\plyr.min.css",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\css\\plyr.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\glightbox\\js\\glightbox.js",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\js\\glightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\glightbox\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\php-email-form\\validate.js",
+      "PackagePath": "staticwebassets\\vendor\\php-email-form\\validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\purecounter\\purecounter_vanilla.js",
+      "PackagePath": "staticwebassets\\vendor\\purecounter\\purecounter_vanilla.js"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\purecounter\\purecounter_vanilla.js.map",
+      "PackagePath": "staticwebassets\\vendor\\purecounter\\purecounter_vanilla.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Esteban Andres\\source\\repos\\TeamRheinlandLandingPage\\TeamRheinlandLandingPage\\wwwroot\\vendor\\swiper\\swiper-bundle.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.TeamRheinlandLandingPage.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.TeamRheinlandLandingPage.props",
+      "PackagePath": "build\\TeamRheinlandLandingPage.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.TeamRheinlandLandingPage.props",
+      "PackagePath": "buildMultiTargeting\\TeamRheinlandLandingPage.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.TeamRheinlandLandingPage.props",
+      "PackagePath": "buildTransitive\\TeamRheinlandLandingPage.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

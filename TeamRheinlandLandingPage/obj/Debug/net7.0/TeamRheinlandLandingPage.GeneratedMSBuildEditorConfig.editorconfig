@@ -1,0 +1,61 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TeamRheinlandLandingPage
+build_property.RootNamespace = TeamRheinlandLandingPage
+build_property.ProjectDir = C:\Users\Esteban Andres\source\repos\TeamRheinlandLandingPage\TeamRheinlandLandingPage\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Esteban Andres\source\repos\TeamRheinlandLandingPage\TeamRheinlandLandingPage
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Esteban Andres/source/repos/TeamRheinlandLandingPage/TeamRheinlandLandingPage/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esteban Andres/source/repos/TeamRheinlandLandingPage/TeamRheinlandLandingPage/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esteban Andres/source/repos/TeamRheinlandLandingPage/TeamRheinlandLandingPage/Pages/Angebot.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQW5nZWJvdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esteban Andres/source/repos/TeamRheinlandLandingPage/TeamRheinlandLandingPage/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esteban Andres/source/repos/TeamRheinlandLandingPage/TeamRheinlandLandingPage/Pages/Referenzen.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVmZXJlbnplbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esteban Andres/source/repos/TeamRheinlandLandingPage/TeamRheinlandLandingPage/Pages/UeberUns.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVWViZXJVbnMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esteban Andres/source/repos/TeamRheinlandLandingPage/TeamRheinlandLandingPage/Pages/Wiesen.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2llc2VuLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esteban Andres/source/repos/TeamRheinlandLandingPage/TeamRheinlandLandingPage/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Esteban Andres/source/repos/TeamRheinlandLandingPage/TeamRheinlandLandingPage/Components/MyNavbar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xNeU5hdmJhci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-3ammeft3ak
+
+[C:/Users/Esteban Andres/source/repos/TeamRheinlandLandingPage/TeamRheinlandLandingPage/Pages/Kontakt.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS29udGFrdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-631bvzmxb2
+
+[C:/Users/Esteban Andres/source/repos/TeamRheinlandLandingPage/TeamRheinlandLandingPage/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

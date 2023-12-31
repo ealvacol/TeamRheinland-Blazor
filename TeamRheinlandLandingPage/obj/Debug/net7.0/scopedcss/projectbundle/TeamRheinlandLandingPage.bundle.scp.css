@@ -1,0 +1,217 @@
+/* _content/TeamRheinlandLandingPage/Components/MyNavbar.razor.rz.scp.css */
+:root[b-3ammeft3ak] {
+    --font-default: "Open Sans", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    --font-primary: "Roboto", sans-serif;
+    --font-secondary: "Inter", sans-serif;
+}
+
+/* Colors */
+:root[b-3ammeft3ak] {
+    --color-default: #3B5998;
+    --color-primary: #FF8C00;
+    --color-primary-dark: #E57500;
+    --color-secondary: #1A2A4C;
+    --color-text-dark: #808080;
+}
+
+/* Smooth scroll behavior */
+:root[b-3ammeft3ak] {
+    scroll-behavior: smooth;
+}
+
+body[b-3ammeft3ak] {
+    font-family: var(--font-default);
+    color: var(--color-default);
+}
+
+a[b-3ammeft3ak] {
+    color: var(--color-primary);
+    text-decoration: none;
+}
+
+    a:hover[b-3ammeft3ak] {
+        color: var(--color-primary-dark);
+        text-decoration: none;
+    }
+
+h1[b-3ammeft3ak],
+h2[b-3ammeft3ak],
+h3[b-3ammeft3ak],
+h4[b-3ammeft3ak],
+h5[b-3ammeft3ak],
+h6[b-3ammeft3ak] {
+    font-family: var(--font-secondary);
+}
+
+/*NEW ADDED CSS*/
+html[b-3ammeft3ak], body[b-3ammeft3ak] {
+    height: 100%;
+    margin: 0;
+}
+
+.main-layout[b-3ammeft3ak] {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.content[b-3ammeft3ak] {
+    flex: 1;
+}
+
+@media (min-width: 1280px) {
+    .navbar[b-3ammeft3ak] {
+        padding: 0;
+    }
+
+    .navar a[b-3ammeft3ak] {
+        color: #0b3d91;
+    }
+
+    .navbar ul[b-3ammeft3ak] {
+        margin: 0;
+        padding: 0;
+        display: flex;
+        list-style: none;
+        align-items: center;
+    }
+
+    .navbar li[b-3ammeft3ak] {
+        position: relative;
+    }
+
+
+    .navbar > ul > li[b-3ammeft3ak] {
+        white-space: nowrap;
+        padding: 10px 0 10px 28px;
+    }
+
+    .navbar a[b-3ammeft3ak],
+    .navbar a:focus[b-3ammeft3ak] {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0 3px;
+        font-family: var(--font-secondary);
+        font-size: 20px;
+        font-weight: 600;
+        color: #7f7f90;
+        white-space: nowrap;
+        transition: 0.3s;
+        position: relative;
+    }
+
+        .navbar a i[b-3ammeft3ak],
+        .navbar a:focus i[b-3ammeft3ak] {
+            font-size: 12px;
+            line-height: 0;
+            margin-left: 5px;
+        }
+
+    .navbar > ul > li > a[b-3ammeft3ak]:before {
+        content: "";
+        position: absolute;
+        width: 100%;
+        height: 2px;
+        bottom: -6px;
+        left: 0;
+        background-color: var(--color-primary);
+        visibility: hidden;
+        width: 0px;
+        transition: all 0.3s ease-in-out 0s;
+    }
+
+    .navbar a:hover[b-3ammeft3ak]:before,
+    .navbar li:hover > a[b-3ammeft3ak]:before,
+    .navbar .active[b-3ammeft3ak]:before {
+        visibility: visible;
+        width: 100%;
+    }
+
+    .navbar a:hover[b-3ammeft3ak],
+    .navbar .active[b-3ammeft3ak],
+    .navbar .active:focus[b-3ammeft3ak],
+    .navbar li:hover > a[b-3ammeft3ak] {
+        color: var(--color-primary-dark);
+    }
+
+    .navbar .dropdown ul[b-3ammeft3ak] {
+        display: block;
+        position: absolute;
+        left: 28px;
+        top: calc(100% + 30px);
+        margin: 0;
+        padding: 10px 0;
+        z-index: 99;
+        opacity: 0;
+        visibility: hidden;
+        background: #fff;
+        box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
+        transition: 0.3s;
+        border-radius: 4px;
+    }
+
+        .navbar .dropdown ul li[b-3ammeft3ak] {
+            min-width: 200px;
+        }
+
+        .navbar .dropdown ul a[b-3ammeft3ak] {
+            padding: 10px 20px;
+            font-size: 15px;
+            text-transform: none;
+            font-weight: 600;
+        }
+
+            .navbar .dropdown ul a i[b-3ammeft3ak] {
+                font-size: 12px;
+            }
+
+            .navbar .dropdown ul a:hover[b-3ammeft3ak],
+            .navbar .dropdown ul .active:hover[b-3ammeft3ak],
+            .navbar .dropdown ul li:hover > a[b-3ammeft3ak] {
+                color: var(--color-primary);
+            }
+
+    .navbar .dropdown:hover > ul[b-3ammeft3ak] {
+        opacity: 1;
+        top: 100%;
+        visibility: visible;
+    }
+
+    .navbar .dropdown .dropdown ul[b-3ammeft3ak] {
+        top: 0;
+        left: calc(100% - 30px);
+        visibility: hidden;
+    }
+
+    .navbar .dropdown .dropdown:hover > ul[b-3ammeft3ak] {
+        opacity: 1;
+        top: 0;
+        left: 100%;
+        visibility: visible;
+    }
+}
+
+@media (min-width: 1280px) and (max-width: 1366px) {
+    .navbar .dropdown .dropdown ul[b-3ammeft3ak] {
+        left: -90%;
+    }
+
+    .navbar .dropdown .dropdown:hover > ul[b-3ammeft3ak] {
+        left: -100%;
+    }
+}
+
+@media (min-width: 1280px) {
+
+    .mobile-nav-show[b-3ammeft3ak],
+    .mobile-nav-hide[b-3ammeft3ak] {
+        display: none;
+    }
+}
+/* _content/TeamRheinlandLandingPage/Pages/Kontakt.razor.rz.scp.css */
+.contact .info-item[b-631bvzmxb2] {
+    background: #f4f4f4;
+    padding: 30px;
+    height: 100%;
+}
